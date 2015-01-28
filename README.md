@@ -1,2 +1,2 @@
 # memristor_simulation
-This java GUI program simulates the a memristor's behavior under sinusoidal voltage incidence 
+This java GUI program simulates a memristor's behavior under sinusoidal voltage incidence 
