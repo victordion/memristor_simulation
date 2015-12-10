@@ -1,4 +1,4 @@
-package memristor;
+package com.jianweicui.app;
 
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;

@@ -1,4 +1,4 @@
-package memristor;
+package com.jianweicui.app;
 
 import java.awt.Color;
 import java.awt.Dimension;

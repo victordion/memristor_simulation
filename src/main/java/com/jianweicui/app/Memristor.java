@@ -1,4 +1,4 @@
-package memristor;
+package com.jianweicui.app;
 
 public class Memristor {
 	private double R;
