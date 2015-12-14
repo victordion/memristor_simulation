@@ -86,8 +86,8 @@ public class TimePlot extends JPanel {
 		
 		if(current_w_point >= prefered_w){
 			
-			int history_max_voltage = Integer.max(Math.abs(Collections.max(voltages)), Math.abs(Collections.min(voltages)));
-			int history_max_current = Integer.max(Math.abs(Collections.max(currents)), Math.abs(Collections.min(currents)));
+			int history_max_voltage = Math.max(Math.abs(Collections.max(voltages)), Math.abs(Collections.min(voltages)));
+			int history_max_current = Math.max(Math.abs(Collections.max(currents)), Math.abs(Collections.min(currents)));
 			int history_max_r = Math.abs(Collections.max(rs));
 			ts.clear();
 			voltages.clear();
